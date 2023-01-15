@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<root>
+
+    <item id="1">
+        <name>Marilyn Manson - We are chaos</name>
+        <size>MT</size>
+        <img>https://avatars.mds.yandex.net/get-mpic/5376414/img_id7817087724124398265.jpeg/orig</img>
+    </item>
+
+    <item id="2">
+        <name>Kasabian - For crying out loud</name> 
+        <size>NM</size>
+        <img>https://plastinka.com/photo/lp/266933/kasabian-for-crying-out-loud.JPG</img>
+    </item>
+
+    <item id="3">
+        <name>Thirty Seconds to Mars - America</name> 
+        <size>EX</size>
+        <img>https://images.tcdn.com.br/img/img_prod/883587/thirty_seconds_of_mars_america_limited_edition_double_white_vinyl_2627_1_fc13aa535d731e2cf79fa8160362d251.jpeg</img>
+    </item>
+
+    <item id="4">
+        <name>Thirty Seconds to Mars - A Beautiful Lie</name> 
+        <size>EX</size>
+        <img>https://images.tcdn.com.br/img/img_prod/883587/thirty_seconds_to_mars_a_beautiful_lie_double_black_vinyl_3263_1_502a65c0df6a1ab793c532d05cba3c30.jpeg</img>
+    </item>
+    
+    
+
+    <item id="6">
+        <name>The White Stripes - Elephant</name> 
+        <size>EX,MT</size>
+        <img>https://vinyl-is.ru/upload/iblock/9cc/f9g6xmhr9ld7b4qerqg8orpecjv1v6ue.jpg</img>
+    </item>
+
+    <item id="7"><name>Ghostemane - ANTI-ICON</name><size>MT</size><img>https://cdn.shopify.com/s/files/1/0117/4483/7728/products/GHOSTEMANEANTIICON_2048x.png?v=1610990994</img></item>
+</root>
