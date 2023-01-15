@@ -18,15 +18,10 @@
     <h2>Самый популярный винил</h2>
 
 
-    <!-- контейнер с книгами -->
-    <!-- books = items
-         book = item
-         book_name = item_name
-         book_author = merch -->
+
     <div class="items">
 
 
-        <!-- одна книга -->
         <?php foreach($xml->item as $item) { ?>
 
         <div class="item">  
@@ -34,12 +29,10 @@
             <img src=" <?php echo $item->img ?> " alt="" class="image">
 
             <div class="item_name">
-                <!-- подставляем название из xml -->    
                 <?php echo $item->name ?>        
             </div>
 
             <div class="merch">
-                <!-- подставляем размер из xml --> 
                 <?php echo $item->size ?>
             </div>
 
